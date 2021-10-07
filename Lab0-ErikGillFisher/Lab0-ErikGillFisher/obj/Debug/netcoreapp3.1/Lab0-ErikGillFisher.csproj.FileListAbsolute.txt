@@ -1,0 +1,16 @@
+C:\Users\erikg\source\repos\Lab0-ErikGillFisher\Lab0-ErikGillFisher\obj\Debug\netcoreapp3.1\Lab0-ErikGillFisher.csproj.AssemblyReference.cache
+C:\Users\erikg\source\repos\Lab0-ErikGillFisher\Lab0-ErikGillFisher\obj\Debug\netcoreapp3.1\Lab0_ErikGillFisher.frmMain.resources
+C:\Users\erikg\source\repos\Lab0-ErikGillFisher\Lab0-ErikGillFisher\obj\Debug\netcoreapp3.1\Lab0-ErikGillFisher.csproj.GenerateResource.cache
+C:\Users\erikg\source\repos\Lab0-ErikGillFisher\Lab0-ErikGillFisher\obj\Debug\netcoreapp3.1\Lab0-ErikGillFisher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikg\source\repos\Lab0-ErikGillFisher\Lab0-ErikGillFisher\obj\Debug\netcoreapp3.1\Lab0-ErikGillFisher.AssemblyInfoInputs.cache
+C:\Users\erikg\source\repos\Lab0-ErikGillFisher\Lab0-ErikGillFisher\obj\Debug\netcoreapp3.1\Lab0-ErikGillFisher.AssemblyInfo.cs
+C:\Users\erikg\source\repos\Lab0-ErikGillFisher\Lab0-ErikGillFisher\obj\Debug\netcoreapp3.1\Lab0-ErikGillFisher.csproj.CoreCompileInputs.cache
+C:\Users\erikg\source\repos\Lab0-ErikGillFisher\Lab0-ErikGillFisher\bin\Debug\netcoreapp3.1\Lab0-ErikGillFisher.exe
+C:\Users\erikg\source\repos\Lab0-ErikGillFisher\Lab0-ErikGillFisher\bin\Debug\netcoreapp3.1\Lab0-ErikGillFisher.deps.json
+C:\Users\erikg\source\repos\Lab0-ErikGillFisher\Lab0-ErikGillFisher\bin\Debug\netcoreapp3.1\Lab0-ErikGillFisher.runtimeconfig.json
+C:\Users\erikg\source\repos\Lab0-ErikGillFisher\Lab0-ErikGillFisher\bin\Debug\netcoreapp3.1\Lab0-ErikGillFisher.runtimeconfig.dev.json
+C:\Users\erikg\source\repos\Lab0-ErikGillFisher\Lab0-ErikGillFisher\bin\Debug\netcoreapp3.1\Lab0-ErikGillFisher.dll
+C:\Users\erikg\source\repos\Lab0-ErikGillFisher\Lab0-ErikGillFisher\bin\Debug\netcoreapp3.1\Lab0-ErikGillFisher.pdb
+C:\Users\erikg\source\repos\Lab0-ErikGillFisher\Lab0-ErikGillFisher\obj\Debug\netcoreapp3.1\Lab0-ErikGillFisher.dll
+C:\Users\erikg\source\repos\Lab0-ErikGillFisher\Lab0-ErikGillFisher\obj\Debug\netcoreapp3.1\Lab0-ErikGillFisher.pdb
+C:\Users\erikg\source\repos\Lab0-ErikGillFisher\Lab0-ErikGillFisher\obj\Debug\netcoreapp3.1\Lab0-ErikGillFisher.genruntimeconfig.cache
