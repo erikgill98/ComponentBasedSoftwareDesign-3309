@@ -1,0 +1,16 @@
+C:\Users\erikg\source\repos\Lab1-ErikGillFisher\AreaAndPerimeter-ErikGillFisher\AreaAndPerimeter-ErikGillFisher\bin\Debug\netcoreapp3.1\AreaAndPerimeter-ErikGillFisher.exe
+C:\Users\erikg\source\repos\Lab1-ErikGillFisher\AreaAndPerimeter-ErikGillFisher\AreaAndPerimeter-ErikGillFisher\bin\Debug\netcoreapp3.1\AreaAndPerimeter-ErikGillFisher.deps.json
+C:\Users\erikg\source\repos\Lab1-ErikGillFisher\AreaAndPerimeter-ErikGillFisher\AreaAndPerimeter-ErikGillFisher\bin\Debug\netcoreapp3.1\AreaAndPerimeter-ErikGillFisher.runtimeconfig.json
+C:\Users\erikg\source\repos\Lab1-ErikGillFisher\AreaAndPerimeter-ErikGillFisher\AreaAndPerimeter-ErikGillFisher\bin\Debug\netcoreapp3.1\AreaAndPerimeter-ErikGillFisher.runtimeconfig.dev.json
+C:\Users\erikg\source\repos\Lab1-ErikGillFisher\AreaAndPerimeter-ErikGillFisher\AreaAndPerimeter-ErikGillFisher\bin\Debug\netcoreapp3.1\AreaAndPerimeter-ErikGillFisher.dll
+C:\Users\erikg\source\repos\Lab1-ErikGillFisher\AreaAndPerimeter-ErikGillFisher\AreaAndPerimeter-ErikGillFisher\bin\Debug\netcoreapp3.1\AreaAndPerimeter-ErikGillFisher.pdb
+C:\Users\erikg\source\repos\Lab1-ErikGillFisher\AreaAndPerimeter-ErikGillFisher\AreaAndPerimeter-ErikGillFisher\obj\Debug\netcoreapp3.1\AreaAndPerimeter-ErikGillFisher.csproj.AssemblyReference.cache
+C:\Users\erikg\source\repos\Lab1-ErikGillFisher\AreaAndPerimeter-ErikGillFisher\AreaAndPerimeter-ErikGillFisher\obj\Debug\netcoreapp3.1\AreaAndPerimeter_ErikGillFisher.AreaAndPerimeter.resources
+C:\Users\erikg\source\repos\Lab1-ErikGillFisher\AreaAndPerimeter-ErikGillFisher\AreaAndPerimeter-ErikGillFisher\obj\Debug\netcoreapp3.1\AreaAndPerimeter-ErikGillFisher.csproj.GenerateResource.cache
+C:\Users\erikg\source\repos\Lab1-ErikGillFisher\AreaAndPerimeter-ErikGillFisher\AreaAndPerimeter-ErikGillFisher\obj\Debug\netcoreapp3.1\AreaAndPerimeter-ErikGillFisher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikg\source\repos\Lab1-ErikGillFisher\AreaAndPerimeter-ErikGillFisher\AreaAndPerimeter-ErikGillFisher\obj\Debug\netcoreapp3.1\AreaAndPerimeter-ErikGillFisher.AssemblyInfoInputs.cache
+C:\Users\erikg\source\repos\Lab1-ErikGillFisher\AreaAndPerimeter-ErikGillFisher\AreaAndPerimeter-ErikGillFisher\obj\Debug\netcoreapp3.1\AreaAndPerimeter-ErikGillFisher.AssemblyInfo.cs
+C:\Users\erikg\source\repos\Lab1-ErikGillFisher\AreaAndPerimeter-ErikGillFisher\AreaAndPerimeter-ErikGillFisher\obj\Debug\netcoreapp3.1\AreaAndPerimeter-ErikGillFisher.csproj.CoreCompileInputs.cache
+C:\Users\erikg\source\repos\Lab1-ErikGillFisher\AreaAndPerimeter-ErikGillFisher\AreaAndPerimeter-ErikGillFisher\obj\Debug\netcoreapp3.1\AreaAndPerimeter-ErikGillFisher.dll
+C:\Users\erikg\source\repos\Lab1-ErikGillFisher\AreaAndPerimeter-ErikGillFisher\AreaAndPerimeter-ErikGillFisher\obj\Debug\netcoreapp3.1\AreaAndPerimeter-ErikGillFisher.pdb
+C:\Users\erikg\source\repos\Lab1-ErikGillFisher\AreaAndPerimeter-ErikGillFisher\AreaAndPerimeter-ErikGillFisher\obj\Debug\netcoreapp3.1\AreaAndPerimeter-ErikGillFisher.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\erikg\source\repos\Lab1-ErikGillFisher\ScoreCalculator-ErikGillFisher\ScoreCalculator-ErikGillFisher\obj\Debug\netcoreapp3.1\ScoreCalculator-ErikGillFisher.csproj.AssemblyReference.cache
+C:\Users\erikg\source\repos\Lab1-ErikGillFisher\ScoreCalculator-ErikGillFisher\ScoreCalculator-ErikGillFisher\obj\Debug\netcoreapp3.1\ScoreCalculator_ErikGillFisher.ScoreCalculator.resources
+C:\Users\erikg\source\repos\Lab1-ErikGillFisher\ScoreCalculator-ErikGillFisher\ScoreCalculator-ErikGillFisher\obj\Debug\netcoreapp3.1\ScoreCalculator-ErikGillFisher.csproj.GenerateResource.cache
+C:\Users\erikg\source\repos\Lab1-ErikGillFisher\ScoreCalculator-ErikGillFisher\ScoreCalculator-ErikGillFisher\obj\Debug\netcoreapp3.1\ScoreCalculator-ErikGillFisher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikg\source\repos\Lab1-ErikGillFisher\ScoreCalculator-ErikGillFisher\ScoreCalculator-ErikGillFisher\obj\Debug\netcoreapp3.1\ScoreCalculator-ErikGillFisher.AssemblyInfoInputs.cache
+C:\Users\erikg\source\repos\Lab1-ErikGillFisher\ScoreCalculator-ErikGillFisher\ScoreCalculator-ErikGillFisher\obj\Debug\netcoreapp3.1\ScoreCalculator-ErikGillFisher.AssemblyInfo.cs
+C:\Users\erikg\source\repos\Lab1-ErikGillFisher\ScoreCalculator-ErikGillFisher\ScoreCalculator-ErikGillFisher\obj\Debug\netcoreapp3.1\ScoreCalculator-ErikGillFisher.csproj.CoreCompileInputs.cache
+C:\Users\erikg\source\repos\Lab1-ErikGillFisher\ScoreCalculator-ErikGillFisher\ScoreCalculator-ErikGillFisher\bin\Debug\netcoreapp3.1\ScoreCalculator-ErikGillFisher.exe
+C:\Users\erikg\source\repos\Lab1-ErikGillFisher\ScoreCalculator-ErikGillFisher\ScoreCalculator-ErikGillFisher\bin\Debug\netcoreapp3.1\ScoreCalculator-ErikGillFisher.deps.json
+C:\Users\erikg\source\repos\Lab1-ErikGillFisher\ScoreCalculator-ErikGillFisher\ScoreCalculator-ErikGillFisher\bin\Debug\netcoreapp3.1\ScoreCalculator-ErikGillFisher.runtimeconfig.json
+C:\Users\erikg\source\repos\Lab1-ErikGillFisher\ScoreCalculator-ErikGillFisher\ScoreCalculator-ErikGillFisher\bin\Debug\netcoreapp3.1\ScoreCalculator-ErikGillFisher.runtimeconfig.dev.json
+C:\Users\erikg\source\repos\Lab1-ErikGillFisher\ScoreCalculator-ErikGillFisher\ScoreCalculator-ErikGillFisher\bin\Debug\netcoreapp3.1\ScoreCalculator-ErikGillFisher.dll
+C:\Users\erikg\source\repos\Lab1-ErikGillFisher\ScoreCalculator-ErikGillFisher\ScoreCalculator-ErikGillFisher\bin\Debug\netcoreapp3.1\ScoreCalculator-ErikGillFisher.pdb
+C:\Users\erikg\source\repos\Lab1-ErikGillFisher\ScoreCalculator-ErikGillFisher\ScoreCalculator-ErikGillFisher\obj\Debug\netcoreapp3.1\ScoreCalculator-ErikGillFisher.dll
+C:\Users\erikg\source\repos\Lab1-ErikGillFisher\ScoreCalculator-ErikGillFisher\ScoreCalculator-ErikGillFisher\obj\Debug\netcoreapp3.1\ScoreCalculator-ErikGillFisher.pdb
+C:\Users\erikg\source\repos\Lab1-ErikGillFisher\ScoreCalculator-ErikGillFisher\ScoreCalculator-ErikGillFisher\obj\Debug\netcoreapp3.1\ScoreCalculator-ErikGillFisher.genruntimeconfig.cache
