@@ -1,0 +1,12 @@
+C:\Users\erikg\source\repos\Lab8-ErikGillFisher\StateMaintenance\StateMaintenance\bin\Debug\MMABooks.mdf
+C:\Users\erikg\source\repos\Lab8-ErikGillFisher\StateMaintenance\StateMaintenance\bin\Debug\MMABooks_log.ldf
+C:\Users\erikg\source\repos\Lab8-ErikGillFisher\StateMaintenance\StateMaintenance\bin\Debug\StateMaintenance.exe.config
+C:\Users\erikg\source\repos\Lab8-ErikGillFisher\StateMaintenance\StateMaintenance\bin\Debug\StateMaintenance.exe
+C:\Users\erikg\source\repos\Lab8-ErikGillFisher\StateMaintenance\StateMaintenance\bin\Debug\StateMaintenance.pdb
+C:\Users\erikg\source\repos\Lab8-ErikGillFisher\StateMaintenance\StateMaintenance\obj\Debug\StateMaintenance.csproj.AssemblyReference.cache
+C:\Users\erikg\source\repos\Lab8-ErikGillFisher\StateMaintenance\StateMaintenance\obj\Debug\StateMaintenance.Properties.Resources.resources
+C:\Users\erikg\source\repos\Lab8-ErikGillFisher\StateMaintenance\StateMaintenance\obj\Debug\StateMaintenance.csproj.GenerateResource.cache
+C:\Users\erikg\source\repos\Lab8-ErikGillFisher\StateMaintenance\StateMaintenance\obj\Debug\StateMaintenance.csproj.CoreCompileInputs.cache
+C:\Users\erikg\source\repos\Lab8-ErikGillFisher\StateMaintenance\StateMaintenance\obj\Debug\StateMaintenance.exe
+C:\Users\erikg\source\repos\Lab8-ErikGillFisher\StateMaintenance\StateMaintenance\obj\Debug\StateMaintenance.pdb
+C:\Users\erikg\source\repos\Lab8-ErikGillFisher\StateMaintenance\StateMaintenance\obj\Debug\StateMaintenance.frmStateMaintenance.resources
