@@ -1,0 +1,16 @@
+C:\Users\erikg\source\repos\Lab2-ErikGillFisher\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.exe
+C:\Users\erikg\source\repos\Lab2-ErikGillFisher\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.deps.json
+C:\Users\erikg\source\repos\Lab2-ErikGillFisher\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.runtimeconfig.json
+C:\Users\erikg\source\repos\Lab2-ErikGillFisher\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.runtimeconfig.dev.json
+C:\Users\erikg\source\repos\Lab2-ErikGillFisher\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.dll
+C:\Users\erikg\source\repos\Lab2-ErikGillFisher\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.pdb
+C:\Users\erikg\source\repos\Lab2-ErikGillFisher\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.csproj.AssemblyReference.cache
+C:\Users\erikg\source\repos\Lab2-ErikGillFisher\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.csproj.GenerateResource.cache
+C:\Users\erikg\source\repos\Lab2-ErikGillFisher\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikg\source\repos\Lab2-ErikGillFisher\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.AssemblyInfoInputs.cache
+C:\Users\erikg\source\repos\Lab2-ErikGillFisher\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.AssemblyInfo.cs
+C:\Users\erikg\source\repos\Lab2-ErikGillFisher\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\erikg\source\repos\Lab2-ErikGillFisher\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.dll
+C:\Users\erikg\source\repos\Lab2-ErikGillFisher\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.pdb
+C:\Users\erikg\source\repos\Lab2-ErikGillFisher\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.genruntimeconfig.cache
+C:\Users\erikg\source\repos\Lab2-ErikGillFisher\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.FactorialCalc.resources
