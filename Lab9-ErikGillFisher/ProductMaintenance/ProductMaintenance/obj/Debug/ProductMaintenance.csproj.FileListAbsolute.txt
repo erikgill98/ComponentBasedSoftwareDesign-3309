@@ -1,0 +1,32 @@
+C:\Users\erikg\source\repos\Lab8-ErikGillFisher\ProductMaintenance\ProductMaintenance\bin\Debug\MMABooks.mdf
+C:\Users\erikg\source\repos\Lab8-ErikGillFisher\ProductMaintenance\ProductMaintenance\bin\Debug\MMABooks_log.ldf
+C:\Users\erikg\source\repos\Lab8-ErikGillFisher\ProductMaintenance\ProductMaintenance\bin\Debug\MMABooksDataSet.Designer.cs
+C:\Users\erikg\source\repos\Lab8-ErikGillFisher\ProductMaintenance\ProductMaintenance\bin\Debug\MMABooksDataSet.xsc
+C:\Users\erikg\source\repos\Lab8-ErikGillFisher\ProductMaintenance\ProductMaintenance\bin\Debug\MMABooksDataSet.xsd
+C:\Users\erikg\source\repos\Lab8-ErikGillFisher\ProductMaintenance\ProductMaintenance\bin\Debug\MMABooksDataSet.xss
+C:\Users\erikg\source\repos\Lab8-ErikGillFisher\ProductMaintenance\ProductMaintenance\bin\Debug\ProductMaintenance.exe.config
+C:\Users\erikg\source\repos\Lab8-ErikGillFisher\ProductMaintenance\ProductMaintenance\bin\Debug\ProductMaintenance.exe
+C:\Users\erikg\source\repos\Lab8-ErikGillFisher\ProductMaintenance\ProductMaintenance\bin\Debug\ProductMaintenance.pdb
+C:\Users\erikg\source\repos\Lab8-ErikGillFisher\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.csproj.AssemblyReference.cache
+C:\Users\erikg\source\repos\Lab8-ErikGillFisher\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.Form1.resources
+C:\Users\erikg\source\repos\Lab8-ErikGillFisher\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.Properties.Resources.resources
+C:\Users\erikg\source\repos\Lab8-ErikGillFisher\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.csproj.GenerateResource.cache
+C:\Users\erikg\source\repos\Lab8-ErikGillFisher\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.csproj.CoreCompileInputs.cache
+C:\Users\erikg\source\repos\Lab8-ErikGillFisher\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.exe
+C:\Users\erikg\source\repos\Lab8-ErikGillFisher\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.pdb
+C:\Users\erikg\source\repos\Lab8-ErikGillFisher - Copy\ProductMaintenance\ProductMaintenance\bin\Debug\MMABooks.mdf
+C:\Users\erikg\source\repos\Lab8-ErikGillFisher - Copy\ProductMaintenance\ProductMaintenance\bin\Debug\MMABooks_log.ldf
+C:\Users\erikg\source\repos\Lab8-ErikGillFisher - Copy\ProductMaintenance\ProductMaintenance\bin\Debug\MMABooksDataSet.Designer.cs
+C:\Users\erikg\source\repos\Lab8-ErikGillFisher - Copy\ProductMaintenance\ProductMaintenance\bin\Debug\MMABooksDataSet.xsc
+C:\Users\erikg\source\repos\Lab8-ErikGillFisher - Copy\ProductMaintenance\ProductMaintenance\bin\Debug\MMABooksDataSet.xsd
+C:\Users\erikg\source\repos\Lab8-ErikGillFisher - Copy\ProductMaintenance\ProductMaintenance\bin\Debug\MMABooksDataSet.xss
+C:\Users\erikg\source\repos\Lab8-ErikGillFisher - Copy\ProductMaintenance\ProductMaintenance\bin\Debug\ProductMaintenance.exe.config
+C:\Users\erikg\source\repos\Lab8-ErikGillFisher - Copy\ProductMaintenance\ProductMaintenance\bin\Debug\ProductMaintenance.exe
+C:\Users\erikg\source\repos\Lab8-ErikGillFisher - Copy\ProductMaintenance\ProductMaintenance\bin\Debug\ProductMaintenance.pdb
+C:\Users\erikg\source\repos\Lab8-ErikGillFisher - Copy\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.csproj.AssemblyReference.cache
+C:\Users\erikg\source\repos\Lab8-ErikGillFisher - Copy\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.frmProductMaintenance.resources
+C:\Users\erikg\source\repos\Lab8-ErikGillFisher - Copy\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.Properties.Resources.resources
+C:\Users\erikg\source\repos\Lab8-ErikGillFisher - Copy\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.csproj.GenerateResource.cache
+C:\Users\erikg\source\repos\Lab8-ErikGillFisher - Copy\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.csproj.CoreCompileInputs.cache
+C:\Users\erikg\source\repos\Lab8-ErikGillFisher - Copy\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.exe
+C:\Users\erikg\source\repos\Lab8-ErikGillFisher - Copy\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.pdb
