@@ -1,0 +1,16 @@
+C:\Users\erikg\source\repos\SimpleCalculator\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.exe
+C:\Users\erikg\source\repos\SimpleCalculator\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.deps.json
+C:\Users\erikg\source\repos\SimpleCalculator\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.runtimeconfig.json
+C:\Users\erikg\source\repos\SimpleCalculator\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.runtimeconfig.dev.json
+C:\Users\erikg\source\repos\SimpleCalculator\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.dll
+C:\Users\erikg\source\repos\SimpleCalculator\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.pdb
+C:\Users\erikg\source\repos\SimpleCalculator\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.csproj.AssemblyReference.cache
+C:\Users\erikg\source\repos\SimpleCalculator\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.SimpleCalculator.resources
+C:\Users\erikg\source\repos\SimpleCalculator\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.csproj.GenerateResource.cache
+C:\Users\erikg\source\repos\SimpleCalculator\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikg\source\repos\SimpleCalculator\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.AssemblyInfoInputs.cache
+C:\Users\erikg\source\repos\SimpleCalculator\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.AssemblyInfo.cs
+C:\Users\erikg\source\repos\SimpleCalculator\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\erikg\source\repos\SimpleCalculator\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.dll
+C:\Users\erikg\source\repos\SimpleCalculator\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.pdb
+C:\Users\erikg\source\repos\SimpleCalculator\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.genruntimeconfig.cache
